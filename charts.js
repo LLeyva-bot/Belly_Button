@@ -121,7 +121,6 @@ function buildCharts(sample) {
       showlegend: false,
       xaxis: {title: "OTU ID", automargin: true},
       yaxis: {automargin: true},
-      //margin: { t: 50, r: 50, l: 50, b: 50 },
       hovermode: "closest"
     };
     console.log(bubbleLayout);
